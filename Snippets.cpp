@@ -8,6 +8,9 @@
 #define fr(i,n) for(int i=0; i<(n); i++)
 #define rep(i,a,n) for(int i=(a); i<=(n); i++)
 #define nl cout<<"\n"
+#define py cout << "YES\n";
+#define pm cout << "-1\n";
+#define pn cout << "NO\n";
 #define dbg(var) cout<<#var<<"="<<var<<" "
 #define all(v) v.begin(),v.end()
 #define srt(v)  sort(v.begin(),v.end())         // sort 
